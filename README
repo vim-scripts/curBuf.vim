@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1055
+
+Defines commands and key mappings for vim/gvim, and gvim toolbar icons and menu entries for sourcing or executing the current buffer's file.  Completely configurable from your vimrc.
